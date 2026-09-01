@@ -653,3 +653,7 @@ Learning Django becomes much easier when concepts are implemented through small 
 If this repository helps you understand Django Middleware, feel free to use it as a learning reference and build your own middleware examples on top of it.
 
 **Keep learning, keep building, and keep improving.**
+
+
+**Motto**
+what you seek is seeking you
